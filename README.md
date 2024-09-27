@@ -17,4 +17,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lukzw7}/count.svg" /></p> 
 <br></div>
 
+![snake gif](https://github.com/lukzw7/lukzw7/blob/output/github-contribution-grid-snake.gif)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
